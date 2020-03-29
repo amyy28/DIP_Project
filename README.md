@@ -20,4 +20,4 @@ Install google cloud and run the file vision.py.
 Wait while it extracts the data from the image.
 Hit the localhost URL to find the updated mock SIS.
 
-## Preferrable to use a virtual environment to avoid unnecessary dependencies being bulked on the system.
+### Preferrable to use a virtual environment to avoid unnecessary dependencies being bulked on the system.
