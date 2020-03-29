@@ -12,9 +12,12 @@ The flask file can now be executed on the terminal, which shall perform **Optica
 Detailed explanation can be seen in the 2 pdf's provided in the repository.
 
 ## Instructions
-```git clone https://github.com/amyy28/DIP_Project.git
+```
+git clone https://github.com/amyy28/DIP_Project.git
 ```
 
 Install google cloud and run the file vision.py. 
 Wait while it extracts the data from the image.
-Hit the localhost URL to find the updated mock SIS
+Hit the localhost URL to find the updated mock SIS.
+
+## Preferrable to use a virtual environment to avoid unnecessary dependencies being bulked on the system.
